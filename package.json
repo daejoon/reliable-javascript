@@ -2,7 +2,7 @@
   "name": "reliable-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "js/index.js",
+  "main": "src/index.js",
   "dependencies": {
     "karma-jasmine": "^2.0.1"
   },
@@ -12,9 +12,9 @@
     "karma": "^4.1.0"
   },
   "scripts": {
-    "start": "npm ./js/index.js",
+    "start": "npm ./src/index.js",
     "test": "karma start"
   },
-  "author": "",
+  "author": "kkode1911@gmail.com",
   "license": "ISC"
 }
